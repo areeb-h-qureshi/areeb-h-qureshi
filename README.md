@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @areeb-h-qureshi
-- 👀 I’m interested in AI Image Processing, Big Data Analysis
-- 🌱 I’m currently learning NPL
+- 👀 I’m interested in Computer Vision and Human Mimicry
+- 🌱 I’m currently learning Machine Learning on Python
 - 💞️ I’m looking to collaborate on Computer Vision, Mini-games
 - 📫 Reach me at areeb.h.qureshi@gmail.com
 
